@@ -2,7 +2,7 @@
 
 
 ![](https://komarev.com/ghpvc/?username=anqlic&color=f1c296) 
-<sub><sup> ${\textsf{\color{#936555} Alt rentry Linked 　. }}$ </sup></sub>  
+<sub><sup> ${\textsf{\color{#936555} Alt github Linked 　. }}$ </sup></sub>  
 <img src="https://64.media.tumblr.com/514d328d6b8dc2c02bf994bdc939dd42/ab274d4c3f7be2e7-e8/s100x200/e2fef38cf9fd1f0b7072f15380d7f7f8f0f4e7ed.pnj"> <img src="https://64.media.tumblr.com/e8375dae1bc84ef1c31be1d969111ba3/ab274d4c3f7be2e7-c6/s100x200/e956ddedcac04597c65f1b14d5a3db00b3f7f2a2.pnj"> <img src="https://64.media.tumblr.com/1db938f4883bd042000837985ef5d6f9/ab274d4c3f7be2e7-8a/s100x200/8a7618e71695951ee07e34017aca6d1c501e9076.pnj">
 
 <p align="right">
