@@ -1,26 +1,26 @@
-### <p align="center"> <img src="https://64.media.tumblr.com/c04cd1ea695b3c6d4e1fc8b8fca3b5cf/ab274d4c3f7be2e7-36/s640x960/65dfe9f654f99271d0a4406c30353e14fbc779e6.pnj"> <br/>
+### <p align="center"> <img src="https://64.media.tumblr.com/5b2d79b4912fd5ef532ab0a0c4603752/d479ee922a832c8d-7a/s1280x1920/82881f8d48cc878786cb56af24e6c2c698e17da2.pnj" width="600" height="162"> <br/>
 
 
-![](https://komarev.com/ghpvc/?username=anqlic&color=f1c296) 
-<sub><sup> ${\textsf{\color{#936555} Alt github Linked 　. }}$ </sup></sub>  
-<img src="https://64.media.tumblr.com/514d328d6b8dc2c02bf994bdc939dd42/ab274d4c3f7be2e7-e8/s100x200/e2fef38cf9fd1f0b7072f15380d7f7f8f0f4e7ed.pnj"> <img src="https://64.media.tumblr.com/e8375dae1bc84ef1c31be1d969111ba3/ab274d4c3f7be2e7-c6/s100x200/e956ddedcac04597c65f1b14d5a3db00b3f7f2a2.pnj"> <img src="https://64.media.tumblr.com/1db938f4883bd042000837985ef5d6f9/ab274d4c3f7be2e7-8a/s100x200/8a7618e71695951ee07e34017aca6d1c501e9076.pnj">
+![](https://komarev.com/ghpvc/?username=anqlic&color=f114cd) 
+<sub><sup> ${\textsf{\color{#5d4d6b} Alt github Linked 　. }}$ </sup></sub>  
+<img src="https://64.media.tumblr.com/f805eb888a685a248b9b3e6a5dbe940d/d479ee922a832c8d-40/s100x200/9ed3725fc3c43a6539e2ea2111fff8d9bb63ea21.pnj"> <img src="https://64.media.tumblr.com/56066f2fc5e261cc305af1c5d83e1435/d479ee922a832c8d-4b/s100x200/e245b1401b5b62073488c8f35196d1c458d3993d.pnj"> <img src="https://64.media.tumblr.com/1da0ad4313a164380d6d1958a7865e7c/d479ee922a832c8d-fb/s100x200/2a6c3fc9a6dd71021398688f8e2b6e6d8ca48541.pnj">
 
 <p align="right">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Zen+Kurenaido&weight=500&size=19&duration=2000&pause=1000&color=D48C5A&center=true&vCenter=true&width=435&lines=%E2%80%A6%E3%82%BB%E3%82%A4%EF%BC%81+%E6%B6%88%E3%81%88%E3%82%8B%E3%82%93%E3%81%A0%E3%80%82" alt="Typing SVG" /></a> <br><br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Hubot+Sans&duration=1300&pause=1500&color=F000CA&width=435&lines=How+much+poison+do+you+think+they+can+handle%3F!" alt="Typing SVG" /></a>
   
 <p align="left">
-  <img src=https://spotify-github-profile.kittinanx.com/api/view.svg?uid=sunshinepie0524&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=efc59e&bar_color_cover=false))>
-  <img src="https://64.media.tumblr.com/3d938f208c7dbc62313660556c9b2137/ab274d4c3f7be2e7-78/s500x750/b46ac5b49a59d2d45f53f6142ebccea2309875e6.gifv" width="280" height="280" width="50%" align="right" style="margin: 20px;">
+  <img src=https://spotify-github-profile.kittinanx.com/api/view?uid=sunshinepie0524&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=f9069e&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)>
+  <img src="https://64.media.tumblr.com/dcbb6ab54ffe974743a8399a099c4d7e/9fa3879f7ee06eb3-21/s100x200/5388d2ecd8e91993e853372fa6ff9652471112c7.gifv" width="250" height="250" width="50%" align="right" style="margin: 20px;">
   <br>
   <hr>
 </p>
 
 <p align="left">
   <ul>
-    ${\textsf{\color{#f1c296}　　First 2 Links 4 info　,　}}$ <br/>
-    ${\textsf{\color{#f1c296} Third link contains a Pixel Hoard　,　}}$ <br/>
-    ${\textsf{\color{#f1c296} fourth is a prns cc.　Enjoy　!}}$ <br/> </li>
-    <sub><sup> ${\textsf{\color{#936555} Find the links on the Left under my PFP 　. }}$ </sup></sub>   
+    ${\textsf{\color{#F000CAFF}　　First 2 Links 4 info　,　}}$ <br/>
+    ${\textsf{\color{#F000CAFF} Third link contains a Pixel Hoard　,　}}$ <br/>
+    ${\textsf{\color{#F000CAFF} fourth is a prns cc.　Enjoy　!}}$ <br/> </li>
+    <sub><sup> ${\textsf{\color{#5d4d6b} Find the links on the Left under my PFP 　. }}$ </sup></sub>   
   </ul>
 </p>
 
