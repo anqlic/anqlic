@@ -13,7 +13,7 @@
   
 <p align="left">
   <img src=https://spotify-github-profile.kittinanx.com/api/view?uid=sunshinepie0524&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=f9069e&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)>
-  <img src="https://64.media.tumblr.com/8dd3bb77a084d325724dffe3711f591d/1031b8e7620696a7-61/s100x200/52cab542bcf50787a9114e03cb2e2773775786de.gifv" width="200" height="200" width="50%" align="right" style="margin: 20px;">
+  <img src="https://64.media.tumblr.com/13ba85bc92ef098b48090dc895c25d23/65cbae88d830cf89-0d/s250x400/509b3b889d9249ee18679c10b63bd7590bf10764.gifv" width="310" height="250" width="60%" align="right" style="margin: 20px;">
   <br>
   <hr>
 </p>
