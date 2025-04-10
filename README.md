@@ -19,7 +19,7 @@
   <ul>
     ${\textsf{\color{#9a4644}　　First 2 Links 4 info　,　}}$ <br/>
     ${\textsf{\color{#9a4644} Third link contains a Pixel Hoard　,　}}$ <br/>
-    ${\textsf{\color{#9a4644} fourth is a prns cc.　Enjoy　!}}$ <br/> </li>
+    ${\textsf{\color{#9a4644} fourth is a joke link.　Enjoy　!}}$ <br/> </li>
     <sub><sup> ${\textsf{\color{#9286c5} Find the links on the Left under my PFP 　. }}$ </sup></sub>   
   </ul>
 </p>
