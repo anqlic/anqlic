@@ -1,29 +1,26 @@
-### <p align="center"> <img src="https://64.media.tumblr.com/0427050e639e05ddb66dea39cc7ea011/d479ee922a832c8d-cf/s640x960/e5366ec59b2209d53410dd9a47bc15f6d6d55ba5.pnj" width="600" height="162"> <br/>
+### <p align="center"> <img src="https://64.media.tumblr.com/908ccdd06f08323722045fc24dc48769/71f9987c2bbecce3-c5/s2048x3072/d6cec5d2b2aeebd7ffdc7091ed8b50403f88e243.pnj" width="600" height="162"> <br/>
 
 
-![](https://komarev.com/ghpvc/?username=anqlic&color=ff286f) 
-<sub><sup> ${\textsf{\color{#b4d37f} Alt github Linked 　. }}$ </sup></sub>  
-<img src="https://64.media.tumblr.com/da99ab270fd963518108062371658889/d479ee922a832c8d-83/s100x200/31cf8c7ab583312269264510ca10936ba8ae3c57.pnj"> <img src="https://64.media.tumblr.com/040aa229fdb93aaf63cd16eca1d99357/d479ee922a832c8d-cf/s100x200/844fc3c5900fcbe1ad93ea192f7e80f9d380d888.pnj"> <img src="https://64.media.tumblr.com/554c4c2e426379e460b2c4ff4e9d241f/d479ee922a832c8d-4e/s100x200/aac473a005a51551dd5137658b36003464d62b8d.pnj"> <br/>
-<img src="https://64.media.tumblr.com/ec3163d2e3298f1e1979a0a8f6b8bd4b/23f6d16f0e8aa1fa-cf/s250x400/64c75b8107cfeb8a4a77a1307d6543ae91765097.gifv"> <br/>
-<img src="https://64.media.tumblr.com/ea30e31402e73ca60f346705502136a1/8d59c1fae6b12acc-a3/s250x400/cf90569522491846d3ed793096eb7b02d7fc4cb1.gifv"> <br/>
-<img src="https://64.media.tumblr.com/6eeb0e49e1ada186b9bba4600794a22e/23f6d16f0e8aa1fa-75/s250x400/d3573c782c255e625514c6e4c5de0646b78d5aae.gifv">
+![](https://komarev.com/ghpvc/?username=anqlic&color=a73735) 
+<sub><sup> ${\textsf{\color{#9286c5} Alt github Linked 　. }}$ </sup></sub>  
+<img src="https://64.media.tumblr.com/5853a5109bdd827c9a7b4f23a65f6fe9/71f9987c2bbecce3-d9/s100x200/f7389cd1b392dfd77b58765c85184ce29d170cd8.pnj"> <img src="https://64.media.tumblr.com/496f3fce4702ad949127122b84d44fae/71f9987c2bbecce3-30/s100x200/189de0f53305a29f9ff46cb76efadc508044f80a.pnj"> <img src="https://64.media.tumblr.com/8aadd369f35997c780bfc71c11138f82/71f9987c2bbecce3-53/s100x200/829e96723ab30c0fca7e9a66ebb41173d3a4e268.pnj"> <br/>
 
 <p align="right">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Hubot+Sans&duration=1300&pause=1500&color=ff286f&width=435&lines=How+much+poison+do+you+think+they+can+handle%3F!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Shadows+Into+Light&duration=1000&pause=1000&color=9A4644&center=true&width=435&lines=But+something+is+wrong+with+me;I+should+be+dead%2C;but+I'm+not." alt="Typing SVG" /></a>
   
 <p align="left">
-  <img src=https://spotify-github-profile.kittinanx.com/api/view?uid=sunshinepie0524&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=f9069e&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)>
-  <img src="https://64.media.tumblr.com/13ba85bc92ef098b48090dc895c25d23/65cbae88d830cf89-0d/s250x400/509b3b889d9249ee18679c10b63bd7590bf10764.gifv" width="310" height="250" width="60%" align="right" style="margin: 20px;">
+  <img src=https://spotify-github-profile.kittinanx.com/api/view?uid=sunshinepie0524&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=9286c5&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)>
+  <img src="https://static.wikia.nocookie.net/five-nights-at-freddys-world-world/images/3/31/Endo_1.gif/revision/latest?cb=20160122223118" width="250" height="250" width="60%" align="right" style="margin: 20px;">
   <br>
   <hr>
 </p>
 
 <p align="left">
   <ul>
-    ${\textsf{\color{#ff286f}　　First 2 Links 4 info　,　}}$ <br/>
-    ${\textsf{\color{#ff286f} Third link contains a Pixel Hoard　,　}}$ <br/>
-    ${\textsf{\color{#ff286f} fourth is a prns cc.　Enjoy　!}}$ <br/> </li>
-    <sub><sup> ${\textsf{\color{#b4d37f} Find the links on the Left under my PFP 　. }}$ </sup></sub>   
+    ${\textsf{\color{#9a4644}　　First 2 Links 4 info　,　}}$ <br/>
+    ${\textsf{\color{#9a4644} Third link contains a Pixel Hoard　,　}}$ <br/>
+    ${\textsf{\color{#9a4644} fourth is a prns cc.　Enjoy　!}}$ <br/> </li>
+    <sub><sup> ${\textsf{\color{#9286c5} Find the links on the Left under my PFP 　. }}$ </sup></sub>   
   </ul>
 </p>
 
